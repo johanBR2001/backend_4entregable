@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Producto Avanzado",
+      "description": "Este es un producto avanzado con características premium.",
+      "code": "ADV002",
+      "price": 89.99,
+      "status": false,
+      "stock": 30,
+      "category": "Electrónica Premium",
+      "thumbnails": [
+        "http://ejemplo.com/imagen3.jpg",
+        "http://ejemplo.com/imagen4.jpg"
+      ],
+      "id": 2
+    }
+  ]
+  
